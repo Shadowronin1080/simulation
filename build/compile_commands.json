@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/workspaces/simulation/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/game.dir/src/main.cpp.o -c /workspaces/simulation/src/main.cpp",
+  "file": "/workspaces/simulation/src/main.cpp",
+  "output": "CMakeFiles/game.dir/src/main.cpp.o"
+}
+]

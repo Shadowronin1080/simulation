@@ -1,0 +1,3 @@
+/workspaces/simulation/build/CMakeFiles/game.dir
+/workspaces/simulation/build/CMakeFiles/edit_cache.dir
+/workspaces/simulation/build/CMakeFiles/rebuild_cache.dir
